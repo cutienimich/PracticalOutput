@@ -29,10 +29,10 @@ updateClock();
 
 
 const images = [
-  "/heartstrawberry.gif",
-  "/pinkcake.gif",
-  "/pinkcinamoroll.gif",
-  "/pinkStrabery.gif"
+  "heartstrawberry.gif",
+  "pinkcake.gif",
+  "pinkcinamoroll.gif",
+  "pinkStrabery.gif"
 ];
 
 const container = document.getElementById("container");
